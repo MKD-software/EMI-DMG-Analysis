@@ -1,0 +1,4 @@
+sample1; 5406.20grams
+sample2; 5406.20grams
+sample3; 5329.45grams
+sample4; 5329.45grams
